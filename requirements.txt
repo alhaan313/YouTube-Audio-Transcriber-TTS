@@ -1,0 +1,5 @@
+pytubefix
+pydub
+deepgram-sdk
+elevenlabs-sdk
+ipython
